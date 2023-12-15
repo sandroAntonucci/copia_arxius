@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+h2 {
+    color: grey;
+    text-decoration: underline;
+}
+
+p {
+    font-style: italic;
+}
+
+span {
+    color: red;
+}
+
+li {
+    list-style-type: upper-roman;
+}

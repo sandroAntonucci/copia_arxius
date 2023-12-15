@@ -1,0 +1,127 @@
+/********************** ELEMENTOS GENERALES DE LA PÁGINA **************/
+*
+{
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+body{
+  text-align: center;
+}
+
+h1,h3, nav a
+{
+  font-family: Helvetica Neue, Arial, serif;
+  font-weight: normal;
+  
+}
+
+a:hover
+{
+  color: #7ABA96;
+}
+/********************** HEADER **************/
+
+header
+{
+	display: inline-block;
+	width: 1400px;
+	text-align: center;
+	position: sticky;
+  	top: 0;
+  	z-index: 100;
+ 
+}
+div.logo{
+ width: 90px;
+ height: 75px;
+ border-radius: 10%;
+ margin-left: 10px;
+ float: left;
+
+}
+
+
+/********************** MENÚ NAVEGACIÓN **************/
+
+nav{
+	height: 125px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 25px;
+	background-color: white;
+	border:0px;
+	border-bottom-width: 0.5px;
+	border-style: solid;
+	border-color: #2b8cee;
+  }
+nav ul
+{
+  list-style-type: none;
+  text-align:center;
+  text-transform: uppercase;
+}
+nav li
+{
+  display: inline-block;
+  margin-right: 15px;
+}
+nav a
+{
+  font-size: 1.25em;
+  padding-bottom: 3px;
+  text-decoration: none;
+  color: #666666;
+}
+nav a:hover
+{
+  font-size: 1.5;
+  color: #2b8cee;
+}
+
+/********************** MAIN **************/
+
+section{
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: left;
+  color: white;
+}
+
+#rioja{
+  float: left;
+}
+
+.titol{
+  background-color: lightblue;
+  font-size: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.info{
+  background-color: lightblue;
+  width: 77%;
+  padding: 5px;
+  height: 100px;
+  float: right;
+}
+
+.info_general{
+  margin-top: 10px;
+  width: 77%;
+  padding: 5px;
+  float: right;
+  background-color: lightgrey;
+  color: black;
+  height: 370px;
+  margin-bottom: 10px;
+}
+
+.itinerari{
+  background-color: lightgrey;
+  color: black;
+  margin-top: 520px;
+  margin-bottom: 20px;
+}

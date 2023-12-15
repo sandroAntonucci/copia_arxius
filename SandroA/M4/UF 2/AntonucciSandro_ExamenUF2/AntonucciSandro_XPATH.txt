@@ -1,0 +1,22 @@
+SANDRO ANTONUCCI REJÓN
+
+1. Obté en format text el mineral que tenen una densitat superior a 5
+
+//mineral[number(densitat)>5.00]/nom/text()
+
+2. ¿Quin mineral conté la lletra k?
+
+//mineral/nom[contains(text(),'K')]
+
+3. Quants minerals pertanyen al grup de sulfurs?
+
+//mineral[grup="Sulfurs"]/nom
+
+4. Mostra el node sencer del penúltim mineral
+
+/minerals/mineral[last()-1]
+
+5. Quants minerals hi ha? Fes una consulta que et retorni el nombre total de
+minerals
+
+/minerals/count(mineral)

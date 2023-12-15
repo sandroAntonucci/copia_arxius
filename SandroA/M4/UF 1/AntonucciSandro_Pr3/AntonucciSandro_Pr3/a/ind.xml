@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE address [
+   <!ELEMENT address (name)>
+   <!ELEMENT name (#PCDATA)>
+]>
+<address>
+   Here's a bit of text mixed up with the child element.
+   <name>Tanmay Patil</name>
+</address>

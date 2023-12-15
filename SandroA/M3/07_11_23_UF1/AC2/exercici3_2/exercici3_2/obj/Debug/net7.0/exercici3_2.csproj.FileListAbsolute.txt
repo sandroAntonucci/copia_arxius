@@ -1,0 +1,15 @@
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\bin\Debug\net7.0\exercici3_2.exe
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\bin\Debug\net7.0\exercici3_2.deps.json
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\bin\Debug\net7.0\exercici3_2.runtimeconfig.json
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\bin\Debug\net7.0\exercici3_2.dll
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\bin\Debug\net7.0\exercici3_2.pdb
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.csproj.AssemblyReference.cache
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.AssemblyInfoInputs.cache
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.AssemblyInfo.cs
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.csproj.CoreCompileInputs.cache
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.dll
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\refint\exercici3_2.dll
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.pdb
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\exercici3_2.genruntimeconfig.cache
+D:\SandroA\M3\UF1\AC2\exercici3_2\exercici3_2\obj\Debug\net7.0\ref\exercici3_2.dll

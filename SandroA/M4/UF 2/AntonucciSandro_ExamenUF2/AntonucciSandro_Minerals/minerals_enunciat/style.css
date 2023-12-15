@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color:blueviolet;
+}
+
+table{
+    width: 100%;
+    padding: 0px;
+    margin: 10px;
+}
+
+td{
+    margin: 0px;
+}
+
+
+tr{
+    padding: 0px;
+    margin: 0px;
+}
+
+#header{
+    background-color: blueviolet;
+    height: 100px;
+    justify-content: center;
+}
+
+#header td{
+    width: 20%;
+}
+
+#info{
+    background-color: lightblue;
+    padding: 0px; 
+}
+
+#info td{
+    width: 70%;
+}
+
+#info img{
+    display:block;
+margin:auto;
+}
